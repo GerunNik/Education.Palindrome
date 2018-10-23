@@ -1,0 +1,11 @@
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\Palindrome\Palindrome\bin\Debug\netcoreapp2.1\Palindrome.deps.json
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\Palindrome\Palindrome\bin\Debug\netcoreapp2.1\Palindrome.runtimeconfig.json
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\Palindrome\Palindrome\bin\Debug\netcoreapp2.1\Palindrome.runtimeconfig.dev.json
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\Palindrome\Palindrome\bin\Debug\netcoreapp2.1\Palindrome.dll
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\Palindrome\Palindrome\bin\Debug\netcoreapp2.1\Palindrome.pdb
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\Palindrome\Palindrome\obj\Debug\netcoreapp2.1\Palindrome.csprojAssemblyReference.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\Palindrome\Palindrome\obj\Debug\netcoreapp2.1\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\Palindrome\Palindrome\obj\Debug\netcoreapp2.1\Palindrome.AssemblyInfoInputs.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\Palindrome\Palindrome\obj\Debug\netcoreapp2.1\Palindrome.AssemblyInfo.cs
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\Palindrome\Palindrome\obj\Debug\netcoreapp2.1\Palindrome.dll
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\Palindrome\Palindrome\obj\Debug\netcoreapp2.1\Palindrome.pdb
